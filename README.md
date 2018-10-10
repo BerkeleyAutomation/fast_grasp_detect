@@ -2,7 +2,7 @@
 
 Used to support our IL_ROS_HSR code.
 
-For the bed-making project code, [see this snapshot in a separate repository][1].
+For the bed-making project code, [see this snapshot in a separate repository][4].
 
 ## install 
 
@@ -79,3 +79,4 @@ so that we can inspect the output later.
 [1]:https://github.com/DanielTakeshi/fast_grasp_detect/blob/master/src/fast_grasp_detect/configs/bed_grasp_config.py
 [2]:https://github.com/DanielTakeshi/fast_grasp_detect/blob/master/src/fast_grasp_detect/configs/bed_success_config.py
 [3]:https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
+[4]:https://github.com/DanielTakeshi/fast_grasp_detect
